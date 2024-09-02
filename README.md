@@ -2,6 +2,8 @@
 
 Generate 'It Ends with Us' film soundtrack song excerpts by modeling Markov chains with a script to Discord API wrapper library
 
+https://github.com/user-attachments/assets/e3df1c9e-358c-45b2-a52f-e94f416d0d3c
+
 ### Future Development
 
 - The longer the sequence of words to the left of the arrow, the closer it becomes to the original text, as well as valid English, because there are fewer and fewer random successors. Bigrams (word pairs) and a successor, but try trigrams or n-grams (sequences of n words). The longer the n-gram, the closer to the source text.
